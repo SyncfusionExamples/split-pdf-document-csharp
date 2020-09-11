@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitPDFWithMultiplePage", "SplitPDFWithMultiplePage\SplitPDFWithMultiplePage.csproj", "{9AA30F33-2020-4A9B-B5C7-06E219EA1195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA30F33-2020-4A9B-B5C7-06E219EA1195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA30F33-2020-4A9B-B5C7-06E219EA1195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA30F33-2020-4A9B-B5C7-06E219EA1195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA30F33-2020-4A9B-B5C7-06E219EA1195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E4F7AD-F0F6-4A24-99B1-815CA1D00EC8}
+	EndGlobalSection
+EndGlobal

@@ -3,12 +3,13 @@ The [Syncfusion&reg; .NET PDF library](https://www.syncfusion.com/document-proce
 
 Sample name | Description 
 --- | ---
-[Split PDF document into multiple files](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitWholeDocument) | Split each pages in a PDF document into individual PDF documents. 
-[Split specific page into separate PDF file](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitParticularPage) | Split a particular page from an existing PDF document into separate PDF document. 
-[Split range of pages into separate PDF file](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitRange) | Split a range of pages from an existing PDF document into separate PDF document. 
-[Split PDF based on bookmarks](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitByBookmark) | Split a PDF document by sections using the bookmarks in PDF documnet.  
-[Find and split PDF](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/FindAndSplit) | Find a page with specific text and split it into a separate PDF document. 
-[Split PDF with specific number of pages](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitPDFWithMultiplePage) | Split a large PDF document into multiple PDF files with any number of pages. 
+[Split PDF document into multiple files](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitWholeDocument) | Split each page in a PDF document into individual PDF documents.
+[Split specific page into separate PDF file](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitParticularPage) | Split a particular page from an existing PDF document into a separate PDF document.
+[Split range of pages into separate PDF file](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitRange) | Split a range of pages from an existing PDF document into a separate PDF document.
+[Split PDF based on bookmarks](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitByBookmark) | Split a PDF document by sections using the bookmarks in a PDF document.
+[Find and split PDF](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/FindAndSplit) | Find a page with specific text and split it into a separate PDF document.
+[Split PDF by fixed number of pages](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/SplitByFixedNumber) | Split a PDF document every N pages into separate files.
+[Split PDF without losing accessibility tags](https://github.com/SyncfusionExamples/split-pdf-document-csharp/tree/master/ImportAccessibilityTags) | Split PDF files while preserving accessibility tags to maintain screen reader compatibility and document structure.
 
 # How to run the examples
 * Download this project to a location in your disk. 

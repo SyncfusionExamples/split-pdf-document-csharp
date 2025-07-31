@@ -1,18 +1,16 @@
 ﻿using Syncfusion.Pdf.Parsing;
 
-namespace SplitRange
+namespace SplitByFixedNumber
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            //Create the page range values.
-            int[,] values = new int[,] { { 1, 5 }, { 3, 9 } };
             //Load the PDF document
             PdfLoadedDocument loadedDocument = new PdfLoadedDocument("../../../../Data/PDF_Succinctly.pdf");
             //Split the pages into fixed number
-            loadedDocument.SplitByRanges("Output-{0}.pdf", values);
-            //Close the PDF document          
+            loadedDocument.SplitByFixedNumber("Output-{0}.pdf", 2);
+            //close the document
             loadedDocument.Close(true);
         }
     }

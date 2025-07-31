@@ -1,11 +1,5 @@
 ﻿using Syncfusion.Pdf;
-using Syncfusion.Pdf.Interactive;
 using Syncfusion.Pdf.Parsing;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SplitParticularPage
 {
